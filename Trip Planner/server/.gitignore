@@ -1,0 +1,31 @@
+# Binaries and libraries
+bin/
+obj/
+*.dll
+*.exe
+*.dylib
+*.so
+
+# Build artifacts
+*.pdb
+*.cache
+
+# IDE
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Configuration
+appsettings.Local.json
+appsettings.Development.json
